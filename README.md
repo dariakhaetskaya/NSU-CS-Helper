@@ -19,6 +19,9 @@
 1. [Расписаные вопросы к зачёту [Коллективная работа 19202, Рекомедуется к прочтению, очень пригодится на осях потом]](https://github.com/dariakhaetskaya/NSU-CS-Helper/blob/main/%D0%AD%D0%92%D0%9C/evm%20dlya%20loxov.pdf)
 2. [Отчёты по лабам](https://github.com/dariakhaetskaya/NSU-CS-Helper/tree/main/%D0%AD%D0%92%D0%9C/%D0%9B%D0%B0%D0%B1%D1%8B)
 
+## C++
+// todo
+
 ### ДГМА
 1. [Конспекты](https://drive.google.com/drive/folders/1BOSUqqDNEvWsap33VMjSxE-5ce-gUWvB?usp=sharing)
 
@@ -42,3 +45,9 @@
 
 ### Основы параллельного программирования
 1. [Лабы + отчеты](https://github.com/dariakhaetskaya/Parallel-Programming)
+
+### Java
+// todo
+
+## Web Networks
+// todo
