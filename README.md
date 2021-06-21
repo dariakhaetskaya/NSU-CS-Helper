@@ -19,7 +19,7 @@
 1. [Расписаные вопросы к зачёту [Коллективная работа 19202, Рекомедуется к прочтению, очень пригодится на осях потом]](https://github.com/dariakhaetskaya/NSU-CS-Helper/blob/main/%D0%AD%D0%92%D0%9C/evm%20dlya%20loxov.pdf)
 2. [Отчёты по лабам](https://github.com/dariakhaetskaya/NSU-CS-Helper/tree/main/%D0%AD%D0%92%D0%9C/%D0%9B%D0%B0%D0%B1%D1%8B)
 
-## C++
+### C++
 // todo
 
 ### ДГМА
@@ -49,5 +49,5 @@
 ### Java
 // todo
 
-## Web Networks
+### Web Networks
 // todo
