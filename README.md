@@ -39,3 +39,6 @@
 1. [Конспекты лекций](https://github.com/dariakhaetskaya/NSU-CS-Helper/blob/main/Physics/Physics%20Lectures_organized.pdf)
 2. [Конспекты семинаров Станислава Рожкова](https://github.com/dariakhaetskaya/NSU-CS-Helper/blob/main/Physics/Physics%20Seminars%20Notes.pdf)
 3. [Месы](https://github.com/dariakhaetskaya/NSU-CS-Helper/blob/main/Physics/%D0%BC%D0%B5%D1%81%D1%8B.pdf)
+
+### Основы параллельного программирования
+1. [Лабы + отчеты](https://github.com/dariakhaetskaya/Parallel-Programming)
