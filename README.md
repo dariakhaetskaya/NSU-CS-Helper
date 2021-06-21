@@ -22,7 +22,7 @@
 ### OperatingSystems
 1. [Лабы по осям + теоретические справки к ним](https://github.com/dariakhaetskaya/OperatingSystems)
 
-### Дифференциальные уравнения и Теория Функции комплексного переменного
+### Дифференциальные Уравнения и Теория Функции Комплексного Переменного
 1. [Все (почти) домашки по диффурам](https://github.com/dariakhaetskaya/NSU-CS-Helper/blob/main/%D0%94%D0%A3%20%D0%B8%20%D0%A2%D0%A4%D0%9A%D0%9F/%D0%94%D0%B8%D1%84%D1%84%D1%83%D1%80%D1%8B.pdf)
 2. [Все домашки по ТФКП](https://github.com/dariakhaetskaya/NSU-CS-Helper/blob/main/%D0%94%D0%A3%20%D0%B8%20%D0%A2%D0%A4%D0%9A%D0%9F/%D0%A2%D0%A4%D0%9A%D0%9F.pdf)
 
