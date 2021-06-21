@@ -13,5 +13,7 @@
 1. [Теория с пояснениями и доказанными упражнениями](https://github.com/dariakhaetskaya/NSU-CS-Helper/tree/main/Math%20Logic)
 2. [Доска оригинал (надеюсь её не удалили ещё)](https://miro.com/app/board/o9J_krWL2u4=/)
 
+## SOPHOMORE YEAR
+
 ### OperatingSystems:
 1. [Лабы по осям + теоретические справки к ним](https://github.com/dariakhaetskaya/OperatingSystems)
