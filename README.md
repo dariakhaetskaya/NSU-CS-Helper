@@ -7,7 +7,7 @@
 ### Программирование на С
 
 1. [Расписанные билеты на экзамен](https://www.notion.so/reyfry/ffc28e5ee2ed47078d5430c556c9981a)
-📗 Лабы 
+2. 📗 Лабы 
 
 [![C](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=Freshman-Year-C-Labs&theme=nightowl)](https://github.com/dariakhaetskaya/Freshman-Year-C-Labs)
 
@@ -28,7 +28,7 @@
 1. [Конспекты](https://drive.google.com/drive/folders/1BOSUqqDNEvWsap33VMjSxE-5ce-gUWvB?usp=sharing)
 
 ### OperatingSystems
-📗 Лабы по осям + теоретические справки к ним
+1. 📗 Лабы по осям + теоретические справки к ним
 
 [![OS](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=OperatingSystems&theme=nightowl)](https://github.com/dariakhaetskaya/OperatingSystems)
 
@@ -48,7 +48,7 @@
 3. [Месы](https://github.com/dariakhaetskaya/NSU-CS-Helper/blob/main/Physics/%D0%BC%D0%B5%D1%81%D1%8B.pdf)
 
 ### Основы параллельного программирования
-📗 Лабы + отчеты
+1. 📗 Лабы + отчеты
 
 [![OPP](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=Parallel-Programming&theme=nightowl)](https://github.com/dariakhaetskaya/Parallel-Programming)
 
