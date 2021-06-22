@@ -8,6 +8,7 @@
 
 1. [Расписанные билеты на экзамен](https://www.notion.so/reyfry/ffc28e5ee2ed47078d5430c556c9981a)
 📗 Лабы 
+
 [![C](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=Freshman-Year-C-Labs&theme=nightowl)](https://github.com/dariakhaetskaya/Freshman-Year-C-Labs)
 
 ### Math Logic
@@ -28,6 +29,7 @@
 
 ### OperatingSystems
 📗 Лабы по осям + теоретические справки к ним
+
 [![OS](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=OperatingSystems&theme=nightowl)](https://github.com/dariakhaetskaya/OperatingSystems)
 
 ### Дифференциальные Уравнения и Теория Функции Комплексного Переменного
@@ -47,6 +49,7 @@
 
 ### Основы параллельного программирования
 📗 Лабы + отчеты
+
 [![OPP](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=Parallel-Programming&theme=nightowl)](https://github.com/dariakhaetskaya/Parallel-Programming)
 
 
