@@ -7,7 +7,8 @@
 ### Программирование на С
 
 1. [Расписанные билеты на экзамен](https://www.notion.so/reyfry/ffc28e5ee2ed47078d5430c556c9981a)
-2. [Лабы](https://github.com/dariakhaetskaya/Freshman-Year-C-Labs)
+📗 Лабы 
+[![C](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=Freshman-Year-C-Labs&theme=nightowl)](https://github.com/dariakhaetskaya/Freshman-Year-C-Labs)
 
 ### Math Logic
 1. [Теория с пояснениями и доказанными упражнениями](https://github.com/dariakhaetskaya/NSU-CS-Helper/tree/main/Math%20Logic)
@@ -26,8 +27,8 @@
 1. [Конспекты](https://drive.google.com/drive/folders/1BOSUqqDNEvWsap33VMjSxE-5ce-gUWvB?usp=sharing)
 
 ### OperatingSystems
-<!-- 1. [Лабы по осям + теоретические справки к ним](https://github.com/dariakhaetskaya/OperatingSystems) -->
-[![My university notes](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=OperatingSystems&theme=nightowl)](https://github.com/dariakhaetskaya/OperatingSystems)
+📗 Лабы по осям + теоретические справки к ним
+[![OS](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=OperatingSystems&theme=nightowl)](https://github.com/dariakhaetskaya/OperatingSystems)
 
 ### Дифференциальные Уравнения и Теория Функции Комплексного Переменного
 1. [Все (почти) домашки по диффурам](https://github.com/dariakhaetskaya/NSU-CS-Helper/blob/main/%D0%94%D0%A3%20%D0%B8%20%D0%A2%D0%A4%D0%9A%D0%9F/%D0%94%D0%B8%D1%84%D1%84%D1%83%D1%80%D1%8B.pdf)
@@ -45,7 +46,9 @@
 3. [Месы](https://github.com/dariakhaetskaya/NSU-CS-Helper/blob/main/Physics/%D0%BC%D0%B5%D1%81%D1%8B.pdf)
 
 ### Основы параллельного программирования
-1. [Лабы + отчеты](https://github.com/dariakhaetskaya/Parallel-Programming)
+📗 Лабы + отчеты
+[![OPP](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=Parallel-Programming&theme=nightowl)](https://github.com/dariakhaetskaya/Parallel-Programming)
+
 
 ### Java
 // todo
