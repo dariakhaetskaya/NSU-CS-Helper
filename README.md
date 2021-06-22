@@ -1,4 +1,4 @@
-# NSU-CS-Helper
+# NSU-CS-Helper ☘️
 
 Материалы для будущих поколений студентов ФИТ НГУ которые я сделала в процессе обучения.
 
@@ -26,7 +26,8 @@
 1. [Конспекты](https://drive.google.com/drive/folders/1BOSUqqDNEvWsap33VMjSxE-5ce-gUWvB?usp=sharing)
 
 ### OperatingSystems
-1. [Лабы по осям + теоретические справки к ним](https://github.com/dariakhaetskaya/OperatingSystems)
+<!-- 1. [Лабы по осям + теоретические справки к ним](https://github.com/dariakhaetskaya/OperatingSystems) -->
+[![My university notes](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=OperatingSystems&theme=nightowl)](https://github.com/dariakhaetskaya/OperatingSystems)
 
 ### Дифференциальные Уравнения и Теория Функции Комплексного Переменного
 1. [Все (почти) домашки по диффурам](https://github.com/dariakhaetskaya/NSU-CS-Helper/blob/main/%D0%94%D0%A3%20%D0%B8%20%D0%A2%D0%A4%D0%9A%D0%9F/%D0%94%D0%B8%D1%84%D1%84%D1%83%D1%80%D1%8B.pdf)
