@@ -2,7 +2,7 @@
 
 Материалы для будущих поколений студентов ФИТ НГУ которые я сделала в процессе обучения.
 
-## FRESHMAN YEAR
+## 1️⃣ FRESHMAN YEAR
 
 ### 🌱 Программирование на С
 
@@ -15,7 +15,7 @@
 1. [Теория с пояснениями и доказанными упражнениями](https://github.com/dariakhaetskaya/NSU-CS-Helper/tree/main/Math%20Logic)
 2. [Доска оригинал (надеюсь её не удалили ещё)](https://miro.com/app/board/o9J_krWL2u4=/)
 
-## SOPHOMORE YEAR
+## 2️⃣ SOPHOMORE YEAR
 
 ### 🌱 ЭВМ и ПУ
 1. [Расписаные вопросы к зачёту [Коллективная работа 19202, Рекомедуется к прочтению, очень пригодится на осях потом]](https://github.com/dariakhaetskaya/NSU-CS-Helper/blob/main/%D0%AD%D0%92%D0%9C/evm%20dlya%20loxov.pdf)
@@ -57,4 +57,6 @@
 // todo
 
 ### 🌱 Web Networks
-// todo
+[![NW](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=NetWorksNSU&theme=nightowl)](https://github.com/dariakhaetskaya/NetWorksNSU)
+[![TCP](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=TCPOverUDP&theme=nightowl)](https://github.com/dariakhaetskaya/TCPOverUDP)
+
