@@ -42,7 +42,7 @@
 1. [Расписанные вопросы к коллоквиуму](https://github.com/dariakhaetskaya/NSU-CS-Helper/blob/main/Probability%26Statistics/%D0%9A%D0%BE%D0%BB%D0%BB%D0%BE%D0%BA%201.pdf)
 2. [Доказательства к расчетному заданию](https://github.com/dariakhaetskaya/NSU-CS-Helper/blob/main/Probability%26Statistics/%D0%B4%D0%BE%D0%BA%D0%B0%D0%B7%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%B0%20%D0%BF%D0%BE%20%D1%80%D0%B0%D1%81%D1%87%D1%91%D1%82%D0%BA%D0%B5.pdf)
 3. [Все домашки](https://github.com/dariakhaetskaya/NSU-CS-Helper/tree/main/Probability%26Statistics/HW)
-4. [Росписи билетов к экзамену](https://github.com/dariakhaetskaya/NSU-CS-Helper/tree/main/Probability%26Statistics/Exam)
+4. [Расписанные билеты к экзамену](https://github.com/dariakhaetskaya/NSU-CS-Helper/blob/main/Probability%26Statistics/Exam/Readme.md)
 
 ### 🌱 Physics
 1. [Конспекты лекций](https://github.com/dariakhaetskaya/NSU-CS-Helper/blob/main/Physics/Physics%20Lectures_organized.pdf)
