@@ -28,7 +28,10 @@
 20. ![Неравенство Чебышева. Закон больших чисел. Теорема Бернулли.](https://github.com/dariakhaetskaya/NSU-CS-Helper/blob/main/Probability%26Statistics/Exam/20.pdf)
 21. ![Центральная предельная теорема: формулировка, обсуждение, примеры применения. Теорема Муавра-Лапласа.](https://github.com/dariakhaetskaya/NSU-CS-Helper/blob/main/Probability%26Statistics/Exam/21.pdf)
 22. ![Приближение Пуассона для биномиального распределения.](https://github.com/dariakhaetskaya/NSU-CS-Helper/blob/main/Probability%26Statistics/Exam/22.pdf)
-23. ![Предмет и задачи математической статистики. Понятие выборки.
+
+
+### 🐢 ![Stats [merged]](https://github.com/dariakhaetskaya/NSU-CS-Helper/blob/main/Probability%26Statistics/Exam/stats_merged.pdf)
+24. ![Предмет и задачи математической статистики. Понятие выборки.
 Вариационный ряд.](https://github.com/dariakhaetskaya/NSU-CS-Helper/blob/main/Probability%26Statistics/Exam/23.pdf)
 24. ![Эмпирическая функция распределения. Гистограмма и полигон частот.](https://github.com/dariakhaetskaya/NSU-CS-Helper/blob/main/Probability%26Statistics/Exam/24.pdf)
 25. ![Теорема Гливенко-Кантелли.](https://github.com/dariakhaetskaya/NSU-CS-Helper/blob/main/Probability%26Statistics/Exam/25.pdf)
