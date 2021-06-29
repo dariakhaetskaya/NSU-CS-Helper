@@ -31,7 +31,7 @@
 
 
 ### 🐢 ![Stats [merged]](https://github.com/dariakhaetskaya/NSU-CS-Helper/blob/main/Probability%26Statistics/Exam/stats_merged.pdf)
-24. ![Предмет и задачи математической статистики. Понятие выборки.
+23. ![Предмет и задачи математической статистики. Понятие выборки.
 Вариационный ряд.](https://github.com/dariakhaetskaya/NSU-CS-Helper/blob/main/Probability%26Statistics/Exam/23.pdf)
 24. ![Эмпирическая функция распределения. Гистограмма и полигон частот.](https://github.com/dariakhaetskaya/NSU-CS-Helper/blob/main/Probability%26Statistics/Exam/24.pdf)
 25. ![Теорема Гливенко-Кантелли.](https://github.com/dariakhaetskaya/NSU-CS-Helper/blob/main/Probability%26Statistics/Exam/25.pdf)
