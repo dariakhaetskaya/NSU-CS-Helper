@@ -24,9 +24,9 @@
 2. [Отчёты по лабам](https://github.com/dariakhaetskaya/NSU-CS-Helper/tree/main/%D0%AD%D0%92%D0%9C/%D0%9B%D0%B0%D0%B1%D1%8B)
 
 ### 🌱 C++
-1. [![Tritset](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=Tritset&theme=nightowl)](https://github.com/dariakhaetskaya/Tritset)
-2. [![Игра (мини Майнкрафт на UE потому что могу себе позволить)((https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=Minecraft-on-Unreal-Engine&theme=nightowl))](https://github.com/dariakhaetskaya/Minecraft-on-Unreal-Engine)
-3. [![CSV Parser](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=CSVparser&theme=nightowl)](https://github.com/dariakhaetskaya/CSVparser)
+[![Tritset](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=Tritset&theme=nightowl)](https://github.com/dariakhaetskaya/Tritset)
+[![Игра (мини Майнкрафт на UE потому что могу себе позволить)](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=Minecraft-on-Unreal-Engine&theme=nightowl)](https://github.com/dariakhaetskaya/Minecraft-on-Unreal-Engine)
+[![CSV Parser](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=CSVparser&theme=nightowl)](https://github.com/dariakhaetskaya/CSVparser)
 
 ### 🌱 ДГМА
 1. [Конспекты](https://drive.google.com/drive/folders/1BOSUqqDNEvWsap33VMjSxE-5ce-gUWvB?usp=sharing)
@@ -58,10 +58,10 @@
 
 
 ### 🌱 Java
-1. [![CSV stats collector](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=CSV-stats-collector&theme=nightowl)](https://github.com/dariakhaetskaya/CSV-stats-collector)
-2. [![Stack Calculator](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=StackCalculator&theme=nightowl)](https://github.com/dariakhaetskaya/StackCalculator)
-3. [![Tetris](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=Tetris&theme=nightowl)](https://github.com/dariakhaetskaya/Tetris)
-4. [![Car Factory](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=CarFactory&theme=nightowl)](https://github.com/dariakhaetskaya/Tetris)
+[![CSV stats collector](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=CSV-stats-collector&theme=nightowl)](https://github.com/dariakhaetskaya/CSV-stats-collector)
+[![Stack Calculator](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=StackCalculator&theme=nightowl)](https://github.com/dariakhaetskaya/StackCalculator)
+[![Tetris](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=Tetris&theme=nightowl)](https://github.com/dariakhaetskaya/Tetris)
+[![Car Factory](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=CarFactory&theme=nightowl)](https://github.com/dariakhaetskaya/Tetris)
 
 ### 🌱 Web Networks
 [![NW](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=NetWorksNSU&theme=nightowl)](https://github.com/dariakhaetskaya/NetWorksNSU)
