@@ -23,6 +23,9 @@
 1. [Расписаные вопросы к зачёту [Коллективная работа 19202, Рекомедуется к прочтению, очень пригодится на осях потом]](https://github.com/dariakhaetskaya/NSU-CS-Helper/blob/main/%D0%AD%D0%92%D0%9C/evm%20dlya%20loxov.pdf)
 2. [Отчёты по лабам](https://github.com/dariakhaetskaya/NSU-CS-Helper/tree/main/%D0%AD%D0%92%D0%9C/%D0%9B%D0%B0%D0%B1%D1%8B)
 
+### 🌱 Дискретная математика
+1. [Лучшая методичка по дискретке [featuring лекции Пережогина Л. А.]](https://drive.google.com/file/d/1CheIOBEJ1_TjszGh1fNAFhROfdP78PSR/view?usp=sharing)
+
 ### 🌱 C++
 [![Tritset](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=Tritset&theme=gotham)](https://github.com/dariakhaetskaya/Tritset)
 [![Игра (мини Майнкрафт на UE потому что могу себе позволить)](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=Minecraft-on-Unreal-Engine&theme=gotham)](https://github.com/dariakhaetskaya/Minecraft-on-Unreal-Engine)
