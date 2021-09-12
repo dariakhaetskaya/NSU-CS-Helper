@@ -70,7 +70,10 @@
 [![NW](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=NetWorksNSU&theme=gotham)](https://github.com/dariakhaetskaya/NetWorksNSU)
 [![TCP](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=TCPOverUDP&theme=gotham)](https://github.com/dariakhaetskaya/TCPOverUDP)
 
-## 1️⃣ JUNIOR YEAR
+## 3️⃣ JUNIOR YEAR
 
 ### 🌱 Computational Mathematics
 [![CM](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=ComputationalMaths&theme=gotham)](https://github.com/dariakhaetskaya/ComputationalMaths)
+
+### 🌱 Methods Of Translation And Verification
+[![MTK](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=MethodsOfTranslationAndVerification&theme=gotham)](https://github.com/dariakhaetskaya/MethodsOfTranslationAndVerification)
