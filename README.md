@@ -1,6 +1,7 @@
 # NSU-CS-Helper ☘️
 
 Материалы для будущих поколений студентов ФИТ НГУ которые я сделала в процессе обучения.
+<br>
 **[upd: по некоторым причинам я закрыла репозитории с материалами для публичного доступа. Напишите мне в телеграм (@fryrey) если хотите получить доступ]**
 <br><br>
 ![](https://media4.giphy.com/media/12TRDjyx9jI5Fe/giphy.gif?cid=ecf05e47gl7mtbj6vlity5j0zkijr60hkvbdsifxpo9mtuws&rid=giphy.gif&ct=g)
