@@ -36,8 +36,8 @@
 ### 🌱 ДГМА
 1. [Конспекты](https://drive.google.com/drive/folders/1BOSUqqDNEvWsap33VMjSxE-5ce-gUWvB?usp=sharing)
 
-### 🌱 OperatingSystems
-1. 📗 Лабы по осям + теоретические справки к ним
+<!-- ### 🌱 OperatingSystems -->
+<!-- 1. 📗 Лабы по осям + теоретические справки к ним -->
 
 [![OS](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=OperatingSystems&theme=gotham)](https://github.com/dariakhaetskaya/OperatingSystems)
 
