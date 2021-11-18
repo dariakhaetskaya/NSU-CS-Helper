@@ -57,7 +57,7 @@
 3. [Месы](https://github.com/dariakhaetskaya/NSU-CS-Helper/blob/main/Physics/%D0%BC%D0%B5%D1%81%D1%8B.pdf)
 
 ### 🌱 Основы параллельного программирования
-1. 📗 Лабы + отчеты
+<!-- 1. 📗 Лабы + отчеты -->
 
 [![OPP](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=Parallel-Programming&theme=gotham)](https://github.com/dariakhaetskaya/Parallel-Programming)
 
