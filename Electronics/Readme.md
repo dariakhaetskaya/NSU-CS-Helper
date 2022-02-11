@@ -33,6 +33,6 @@
 гармонический сигнал, ответ дать в виде гармонической функции с фазовым
 сдвигом. Все сигналы начинаются в нулевой момент времени.](https://github.com/dariakhaetskaya/NSU-CS-Helper/blob/main/Electronics/Task_10_Khaetskaya_Daria%20(2)%20(1).pdf)
 
-#Test Preparation
+# Test Preparation
 1. [Подготовка к контрольной 1](https://github.com/dariakhaetskaya/NSU-CS-Helper/blob/main/Electronics/T1_prep%20(1).pdf)
 2. [Подготовка к контрольной 2](https://github.com/dariakhaetskaya/NSU-CS-Helper/blob/main/Electronics/%D0%A22_prep.pdf)
