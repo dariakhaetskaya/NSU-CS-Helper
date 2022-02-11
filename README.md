@@ -36,8 +36,8 @@
 ### 🌱 ДГМА
 1. [Конспекты](https://drive.google.com/drive/folders/1BOSUqqDNEvWsap33VMjSxE-5ce-gUWvB?usp=sharing)
 
-<!-- ### 🌱 OperatingSystems -->
-<!-- 1. 📗 Лабы по осям + теоретические справки к ним -->
+### 🌱 OperatingSystems
+1. 📗 Лабы по осям + теоретические справки к ним
 
 [![OS](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=OperatingSystems&theme=gotham)](https://github.com/dariakhaetskaya/OperatingSystems)
 
@@ -57,7 +57,7 @@
 3. [Месы](https://github.com/dariakhaetskaya/NSU-CS-Helper/blob/main/Physics/%D0%BC%D0%B5%D1%81%D1%8B.pdf)
 
 ### 🌱 Основы параллельного программирования
-<!-- 1. 📗 Лабы + отчеты -->
+1. 📗 Лабы + отчеты
 
 [![OPP](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=Parallel-Programming&theme=gotham)](https://github.com/dariakhaetskaya/Parallel-Programming)
 
@@ -81,4 +81,4 @@
 [![MTK](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=MethodsOfTranslationAndVerification&theme=gotham)](https://github.com/dariakhaetskaya/MethodsOfTranslationAndVerification)
 
 ### 🌱 Electronics
-[Домашки, контрольные и конспекты](https://github.com/dariakhaetskaya/NSU-CS-Helper/tree/main/Electronics#readme)
+1. [Домашки, контрольные и конспекты](https://github.com/dariakhaetskaya/NSU-CS-Helper/tree/main/Electronics#readme)
