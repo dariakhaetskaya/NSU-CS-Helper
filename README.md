@@ -79,3 +79,6 @@
 
 ### 🌱 Methods Of Translation And Verification
 [![MTK](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=MethodsOfTranslationAndVerification&theme=gotham)](https://github.com/dariakhaetskaya/MethodsOfTranslationAndVerification)
+
+### 🌱 Electronics
+[Домашки, контрольные и конспекты](https://github.com/dariakhaetskaya/NSU-CS-Helper/tree/main/Electronics#readme)
