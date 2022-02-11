@@ -1,3 +1,11 @@
+# Some of my notes
+1. [Базовые определения с семинара 1 и задачи](https://github.com/dariakhaetskaya/NSU-CS-Helper/blob/main/Electronics/Seminar_1.pdf)
+2. [Теоремы Тевенина и Нортона, методы эквивалентного генератора, контурных токов и узловых потенциалов](https://github.com/dariakhaetskaya/NSU-CS-Helper/blob/main/Electronics/Seminar_2.pdf)
+3. [Конденсаторы, катушки и задачи на них](https://github.com/dariakhaetskaya/NSU-CS-Helper/blob/main/Electronics/Seminar_3%20(1).pdf)
+4. [Вносимые сопротивления и трехфазные токи](https://github.com/dariakhaetskaya/NSU-CS-Helper/blob/main/Electronics/Seminar_4%20(2).pdf)
+5. [Четырехполюсники](https://github.com/dariakhaetskaya/NSU-CS-Helper/blob/main/Electronics/Seminar_4_pt.2%20(1).pdf)
+6. [Операционные усилители](https://github.com/dariakhaetskaya/NSU-CS-Helper/blob/main/Electronics/%D0%A3%D1%81%D0%B8%D0%BB%D0%B8%D1%82%D0%B5%D0%BB%D0%B8.pdf)
+
 # Homeworks
 1. [Определить величину эквивалентной ЭДС и эквивалентного внутреннего
 сопротивления (или проводимости) двухполюсника. Привести подробное
