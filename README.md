@@ -82,3 +82,8 @@
 
 ### 🌱 Electronics
 1. [Домашки, контрольные и конспекты](https://github.com/dariakhaetskaya/NSU-CS-Helper/tree/main/Electronics#readme)
+
+## 4️⃣ SENIOR YEAR
+
+### 🌱 Cryptography
+1. [Теория и лабораторные](https://github.com/dariakhaetskaya/NSU-CS-Helper/blob/main/Cryptograhpy/Readme.md)
