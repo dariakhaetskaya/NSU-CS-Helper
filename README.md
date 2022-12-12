@@ -34,7 +34,7 @@
 [![CSV Parser](https://github-readme-stats.vercel.app/api/pin/?username=dariakhaetskaya&repo=CSVparser&theme=gotham)](https://github.com/dariakhaetskaya/CSVparser)
 
 ### 🌱 ДГМА
-1. [Конспекты](https://drive.google.com/drive/folders/1BOSUqqDNEvWsap33VMjSxE-5ce-gUWvB?usp=sharing)
+1. [Билеты к экзаменам](https://vk.com/s/v1/doc/qzKHb0jvk41zx3-dgdub5yZLBnD2FEISpJFbmHaJ7easyMTbj6E)
 
 ### 🌱 OperatingSystems
 1. 📗 Лабы по осям + теоретические справки к ним
