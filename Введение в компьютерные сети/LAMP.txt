@@ -1,0 +1,171 @@
+
+
+LAMP
+------------------------------------------------
+
+		+---------------+
+		|	Установка	|
+		+---------------+
+
+Linux / Apache / MariaDB / PHP
+	sudo apt-get install
+		- apache2
+		- mariadb-server
+		- php
+
+Первоначальная настройка MariaDB:
+	mysql_secure_installation
+	- Если не стартует, надо разбираться: 
+		systemctl status mysqld
+						 mariadb-server
+	- Ответить на вопросы:
+		Пароль ввести
+		Аутентификация - ес
+		Изменить пароль
+		Удалить безымянного - ес
+		Удалить возможность удаленного доступа - ЕС!!!
+		Удалить тестовый дб - ноу
+		Reload privillege... - yes!
+	
+Проверить работоспособность Марии
+	mysql -u root -p
+	ввести пароль
+	
+СКРИПТЫ МАРИИДБ:
+	SHOW DATABASES; # Показать все базы данных
+	SHOW TABLE;		# Показать таблицы
+	\q 				# Выйти из бд
+
+В браузере ввести "localhost"
+	- должна заработать стартовая страница apache2!
+	
+Конфигурация apache2:
+	cat /etc/apache2/sites-enabled/000-default.conf
+	- Внутри напротив DocumentRoot в папке /var/www/html хранится сайт
+
+Создание страницы:
+###### /var/www/html/php.php #########
+	<?php
+	phpinfo();
+	?>
+######################################
+
+Открываем "localhost/php.php"
+	Находим модуль "MySQLi"
+
+		+----------------------------------------+
+		|	Управление базами данный phpmyadmin  |
+		+----------------------------------------+
+
+Установка:
+	sudo apt-get install phpmyadmin
+		- Ставим все зависимости, соглашаемся
+		- Веб-сервер выбираем apache2
+		- Сконфигурировать? - да
+		- Написать и подтвердить пароль
+		
+После установки
+	sudo nano /etc/apache2/apache2.conf
+	- Дописать строку в конец файла
+		Include /etc/phpmyadmin/apache.conf
+	- Выполнить
+		sudo service apache2 restart
+	
+"localhost/phpmyadmin" - в браузере
+	- Ввести логин (root) и пароль
+	При проблемах /var/log/... и https://zalinux.ru/?p=5144
+	
+		+-------------------------------------+
+		|	Настройка сайтов основной машины  |
+		+-------------------------------------+
+	
+Вспомним: www, www2 - домены первой машины
+
+Идём /etc/apache2/
+	./conf-available 	# доступные конфигурации
+	./conf-enabled		# включенные конфигурации - СИМЛИНКИ НА available
+						# для /sites и /mods то же самые
+
+	
+Идём "/etc/apache2/conf-available/phpmyadmin.conf" или "/etc/apache2-yadmin.conf"
+	- Дополняем строкой после первого алиаса: 
+		Alias /pma /usr/share/phpmyadmin
+
+Идём /etc/apache2/conf-available
+	- Там лежат файлы
+		000-default.conf
+		default-ssl.conf
+
+Создаем новые файлы:
+	cp 000-default.conf 001-www.conf
+Редактируем:
+
+###### /etc/apache2/conf-available/001-www.conf ####
+<VirtualHost www.pelageech.local:80 		# Меняем здесь
+	...
+DocumentRoot /var/www/site1	# И здесь
+	...
+####################################################
+
+	cp 000-www.conf 002-www2.conf
+	
+###### /etc/apache2/conf-available/002-www2.conf ###
+<VirtualHost www2.pelageech.local:80
+	...
+DocumentRoot /var/www/site2
+	...
+####################################################
+
+В папке /var/www создаём site1 и site2
+Внутри них index.html
+
+###### /var/www/site1/index.html ####################
+<html>
+	<head>
+		<title>Site 1</title>
+	</head>
+	<body>
+		This is site1!!!
+	</body>
+</html>
+####################################################
+
+###### /var/www/site2/index.html ###################
+<html>
+	<head>
+		<title>Site 2</title>
+	</head>
+	<body>
+		This is site2!!!
+	</body>
+</html>
+####################################################
+
+Создаём симлинки для 001-www.conf и 002-www2.conf в папке conf-enabled с теми же именами
+	ln -s /etc/apache2/conf-available/001-www.conf /etc/apache2/conf-enabled/001-www.conf
+	ln -s /etc/apache2/conf-available/002-www2.conf /etc/apache2/conf-enabled/002-www2.conf
+	
+!!! Исправляем ошибку !!!
+Находим в файле /etc/apache2/envvars переменную "export APACHE_RUN DIR":
+	- Будет примерно такое значение
+		export APACHE_RUN DIR=/var/run/apache2$SUFFIX
+	- Заменяем эту строку на
+		export APACHE_RUN DIR=/etc/apache2$SUFFIX
+
+После этого ваши сайты www и www2 заработают
+
+!!! /var/log/apache - твой помощник при любых ошибках:) !!!
+
+--------------------
+Полезности:
+  -	В случае ошибок:
+		/var/log/apache 	# логи апача
+		
+  - Команды:
+		php -v 				# показать версию php
+		php -r 'phpinfo();' # полезная инфа о пыхе
+		
+  - Важные файлы:
+		/etc/apache2/###-available	# Все доступные файлы конфигурации, модификации или сайтов
+		/etc/apache2/###-enabled	# Все ВКЛЮЧЁННЫЕ файлы (симлинки)
+		### - conf, mods, sites
